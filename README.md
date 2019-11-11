@@ -16,3 +16,5 @@ Would that help doctors to see changes through time? Discuss about a
 patient? Let smart algorithms assist the doctor in quantifying change,
 including detecting of new potential trouble possibly related to a
 different medical field?
+
+Ook kan "Je camera kalibreren" op https://zoom.nl/artikel/cursussen/24923-hoe-zorg-je-voor-waarheidsgetrouwe-kleuren.html helpen
